@@ -93,7 +93,9 @@ Please install Anaconda or miniconda previously.
 
 We also provide an experimental installer that installs the serial drivers for the CP20XX serial UART interface: https://github.com/beniroquai/ImSwitchInstaller/tree/main/constructor
 
-(adapt for windows accordingly)
+#(adapt for windows accordingly)
+A windows installer is provided here: https://openuc2.github.io/docs/ImSwitch/ImSwitchInstaller
+
 ```
 cd ~/Documents
 git clone https://github.com/openUC2/ImSwitch/
